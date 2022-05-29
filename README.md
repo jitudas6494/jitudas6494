@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jitudas6494
-- 👀 I’m interested in data science 
+- 👀 I’m interested in learning data science
 - 🌱 I’m currently learning Python and R 
-- 📫 How to reach me - email me 
+- 📫 How to reach me - Linkedin- https://www.linkedin.com/in/jmd6494/ 
 
 <!---
 jitudas6494/jitudas6494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
